@@ -3,6 +3,8 @@ __pycache__/
 
 env*
 
+deno.lock
+deno.json
 bin/
 build/
 develop-eggs/

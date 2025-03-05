@@ -1,12 +1,12 @@
 import './App.css'
+import Title from "./components/title.tsx"
 // @deno-types="@types/react"
-import { useState } from 'react'
 
 function App() {
   return (
     <>
       <div>
-        
+        <Title />
       </div>
     </>
   )
